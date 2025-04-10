@@ -1,1 +1,3 @@
-print(list(range(10,0,-1)))
+
+print(list(range(1,11)))
+
